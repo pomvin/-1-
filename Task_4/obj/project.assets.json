@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chalo\\Desktop\\дз С#\\Task_4\\Task_4.csproj",
+      "projectUniqueName": "C:\\Users\\chalo\\Desktop\\GeekBrains\\дз С# Новое №1 Семинар\\Task_4\\Task_4.csproj",
       "projectName": "Task_4",
-      "projectPath": "C:\\Users\\chalo\\Desktop\\дз С#\\Task_4\\Task_4.csproj",
+      "projectPath": "C:\\Users\\chalo\\Desktop\\GeekBrains\\дз С# Новое №1 Семинар\\Task_4\\Task_4.csproj",
       "packagesPath": "C:\\Users\\chalo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chalo\\Desktop\\дз С#\\Task_4\\obj\\",
+      "outputPath": "C:\\Users\\chalo\\Desktop\\GeekBrains\\дз С# Новое №1 Семинар\\Task_4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chalo\\AppData\\Roaming\\NuGet\\NuGet.Config"

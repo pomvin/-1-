@@ -5,25 +5,31 @@
 // 22 3 9 -> 22
 
 Console.WriteLine("Введите три числа : ");
-int A, B, C;
-A = Convert.ToInt32(Console.ReadLine());
-B = Convert.ToInt32(Console.ReadLine());
-C = Convert.ToInt32(Console.ReadLine());
+int nam1, nam2, nam3;
+nam1 = Convert.ToInt32(Console.ReadLine());
+nam2 = Convert.ToInt32(Console.ReadLine());
+nam3 = Convert.ToInt32(Console.ReadLine());
+int max = nam1;
 
-if (A >= B)
-{
-    if (A >= C);
-    {
-        Console.WriteLine($"Максимальное число {A}");
-    }
-}
-else if (C >= B)
-{
-    Console.WriteLine($"Максимально число {C}");
-}
-else
-{
-    Console.WriteLine($"Максимальное число {B}");
-}
+if (max < nam2) max = nam2;
+if (max < nam3) max = nam3;
+
+System.Console.WriteLine($"Максимальное из этих чисел = {max}");
+
+// if (A >= B)
+// {
+//     if (A >= C)
+//     {
+//         Console.WriteLine($"Максимальное число {A}");
+//     }
+// }
+// else if (C >= B)
+// {
+//     Console.WriteLine($"Максимально число {C}");
+// }
+// else
+// {
+//     Console.WriteLine($"Максимальное число {B}");
+// }
 
 
