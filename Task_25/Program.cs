@@ -17,4 +17,4 @@ for(int i = 1; i < numberB; i++)
     sum = sum * numberA;
 }
 
-Console.WriteLine("A в степени B равно: " + sum);
+Console.WriteLine($"A в степени B равно: {sum}");
