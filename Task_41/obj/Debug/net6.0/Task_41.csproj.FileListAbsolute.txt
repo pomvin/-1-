@@ -1,0 +1,15 @@
+C:\Users\chalo\Desktop\GeekBrains\дз С# Новое Знакомство с языками программирования\Task_41\bin\Debug\net6.0\Task_41.exe
+C:\Users\chalo\Desktop\GeekBrains\дз С# Новое Знакомство с языками программирования\Task_41\bin\Debug\net6.0\Task_41.deps.json
+C:\Users\chalo\Desktop\GeekBrains\дз С# Новое Знакомство с языками программирования\Task_41\bin\Debug\net6.0\Task_41.runtimeconfig.json
+C:\Users\chalo\Desktop\GeekBrains\дз С# Новое Знакомство с языками программирования\Task_41\bin\Debug\net6.0\Task_41.dll
+C:\Users\chalo\Desktop\GeekBrains\дз С# Новое Знакомство с языками программирования\Task_41\bin\Debug\net6.0\Task_41.pdb
+C:\Users\chalo\Desktop\GeekBrains\дз С# Новое Знакомство с языками программирования\Task_41\obj\Debug\net6.0\Task_41.csproj.AssemblyReference.cache
+C:\Users\chalo\Desktop\GeekBrains\дз С# Новое Знакомство с языками программирования\Task_41\obj\Debug\net6.0\Task_41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chalo\Desktop\GeekBrains\дз С# Новое Знакомство с языками программирования\Task_41\obj\Debug\net6.0\Task_41.AssemblyInfoInputs.cache
+C:\Users\chalo\Desktop\GeekBrains\дз С# Новое Знакомство с языками программирования\Task_41\obj\Debug\net6.0\Task_41.AssemblyInfo.cs
+C:\Users\chalo\Desktop\GeekBrains\дз С# Новое Знакомство с языками программирования\Task_41\obj\Debug\net6.0\Task_41.csproj.CoreCompileInputs.cache
+C:\Users\chalo\Desktop\GeekBrains\дз С# Новое Знакомство с языками программирования\Task_41\obj\Debug\net6.0\Task_41.dll
+C:\Users\chalo\Desktop\GeekBrains\дз С# Новое Знакомство с языками программирования\Task_41\obj\Debug\net6.0\refint\Task_41.dll
+C:\Users\chalo\Desktop\GeekBrains\дз С# Новое Знакомство с языками программирования\Task_41\obj\Debug\net6.0\Task_41.pdb
+C:\Users\chalo\Desktop\GeekBrains\дз С# Новое Знакомство с языками программирования\Task_41\obj\Debug\net6.0\Task_41.genruntimeconfig.cache
+C:\Users\chalo\Desktop\GeekBrains\дз С# Новое Знакомство с языками программирования\Task_41\obj\Debug\net6.0\ref\Task_41.dll
